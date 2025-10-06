@@ -5,4 +5,5 @@ This game uses PyQt. The source of each version of Snake contains the source cod
 ###### AI Performance (Personal Experience) when Starting Lives is set to 1:
 
 **Snake 1.0.0:** The AI usually reaches a score of at least 25.
+
 **Snake 1.1.0:** The AI usually reaches a score of at least 40.
