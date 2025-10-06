@@ -1,1 +1,3 @@
-This game uses PyQt. Attached to each versions' source is the source code of the PyQt version used. This game runs entirely offline and does not auto-update whatsoever.
+This game uses PyQt. Attached to each versions' source is the source code of the PyQt version used. This game runs entirely offline and does not auto-update. The AI is not perfect. For your information the attached MSI installer was made with Advanced Installer. The .aip files used to build the installer are not publicly available for privacy reasons. However, you are free to use, modify, and redistribute the installers under the license terms of this software.
+
+From personal experinces with Snake 1.0.0, the lowest score it has ever reached is 13, though it usually reaches a score of at least 25. The game also installs entirely offline.
