@@ -10,5 +10,5 @@ Snake is a fully offline snake game that uses a toroidal grid. Use the arrow key
 
 ## Notes:
 
-1. Resizing the application window changes the dimensions of the playing grid.
-2. Shrinking the application window while a game is active can potentially require the player to start a new game. This is allowed by the game so that the player can resize the application window back to a manegable size if they find the dimensions of the application window too large, but at the cost of possibly having to restart their game.
+- Resizing the application window changes the dimensions of the playing grid.
+- Shrinking the application window while a game is active can potentially require the player to start a new game. This is allowed by the game so that the player can resize the application window back to a manegable size if they find the dimensions of the application window too large, but at the cost of possibly having to restart their game.
