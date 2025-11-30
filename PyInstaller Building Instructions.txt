@@ -1,0 +1,3 @@
+Open a terminal window in the same folder where the script and the logos are. Then run the following command:
+
+pyinstaller --onedir --icon=logo.ico --add-data "logo2.ico;." snake.pyw
