@@ -6,7 +6,7 @@ Snake is a fully offline snake game that uses a toroidal grid. Use the arrow key
 
 - **Snake 1.0.0:** The AI usually reaches a score of at least 25.
 
-- **Snake 1.1.0:** The AI usually reaches a score of at least 40.
+- **Snake 1.1.0:** A test run of the AI with the default window size and 1000 starting lives reached a score of 53492 by the time all 1000 lives were used.
 
 ## Notes:
 
